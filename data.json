@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Website học TA",
+    "contents": [
+      {
+        "title": "English Club",
+        "desc": "The Magic site! Cleverly designed, stimulating, easily viewed.",
+        "thumb_url": "https://www.englishclub.com/images/logos/EnglishCLUB-bw.png",
+        "url": "https://www.englishclub.com/learn/",
+        "ads_link": "https://shrinke.me/englishclub"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Kênh Youtube học TA",
+    "contents": [
+      {
+        "title": "",
+        "desc": "",
+        "thumb_url": "",
+        "url": "",
+        "ads_link": ""
+      }
+    ]
+  }
+]
