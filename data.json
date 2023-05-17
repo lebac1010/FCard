@@ -6,14 +6,14 @@
       {
         "title": "Duolingo",
         "desc": "Duolingo is a free app and website that uses gamified lessons to teach English vocabulary, grammar, and pronunciation.",
-        "thumb_url": "https://design.duolingo.com/86230c9ad10d9f08b785.svg",
+        "thumb_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYpJCiKL_A8LEhJKESc21tuaaOpxxMZ2mQntkd44Us6g&s",
         "url": "https://www.duolingo.com/",
         "ads_link": "http://lyksoomu.com/1C8VK"
       },
       {
         "title": "Memrise",
         "desc": "Memrise is another free app and website that uses flashcards and other interactive exercises to help you learn English.",
-        "thumb_url": "https://6968579.fs1.hubspotusercontent-na1.net/hubfs/6968579/Memrise%20July%202020/Images/logo_yellow.svg",
+        "thumb_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYM58glxhF_eFNbIJCG9GTHaKfVg3ZjdBytCHBVUv9&s",
         "url": "https://www.memrise.com/",
         "ads_link": "http://lyksoomu.com/1C8Vl"
       },
@@ -34,7 +34,7 @@
       {
         "title": "Rosetta Stone",
         "desc": "Rosetta Stone is a paid app and website that uses a variety of methods to teach English, including immersive learning, speech recognition, and cultural insights.",
-        "thumb_url": "https://www.rosettastone.com/rsassets/img/logos/rs/logo-full.svg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Rosetta_Stone_logo.svg/1200px-Rosetta_Stone_logo.svg.png",
         "url": "https://www.rosettastone.com/",
         "ads_link": "http://lyksoomu.com/1C8Xx"
       },
@@ -85,6 +85,55 @@
         "thumb_url": "https://yt3.googleusercontent.com/Ns6jA8SPBQHp6zpVTeI2ja71q-pWtEB1E93k6ZFtRWbR1yVjqbdjsgxsfAARNQb9daTtD3pM=s176-c-k-c0x00ffffff-no-rj",
         "url": "https://www.youtube.com/channel/UC8pPDhxSn1nee70LRKJ0p3g",
         "ads_link": "http://lyksoomu.com/1C8aQ"
+      },
+      {
+        "title": "Easy English",
+        "desc": "Kênh này giúp bạn luyện nghe Tiếng Anh qua các cuộc nói chuyện và phỏng vấn trên đường phố",
+        "thumb_url": "https://yt3.googleusercontent.com/ytc/AGIKgqMNm-nAmweGL9692DjriP0alCKdUJE0RbkDAhLRiQ=s176-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@easyenglish551",
+        "ads_link": "http://lyksoomu.com/1C8dT"
+      },
+      {
+        "title": "BBC Learning English",
+        "desc": "Kênh này cung cấp các bài học Tiếng Anh - Anh về ngữ pháp, từ vựng, phát âm và văn hóa Anh Quốc",
+        "thumb_url": "https://yt3.googleusercontent.com/6pw8YF3c0ZGAYzPfEe6ZoUO0yxoa5_ymOSB1_-dkgvS1WWWM3PmRwHV_JK6dLdpJzypGnh3qeQ=s176-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@bbclearningenglish",
+        "ads_link": "http://lyksoomu.com/1C8dh"
+      },
+      {
+        "title": "Jennifer ESL",
+        "desc": "Kênh này dành cho người muốn cải thiện Tiếng Anh - Mỹ qua các bài học toàn diện về nghe, nói, đọc, viết và ngữ pháp",
+        "thumb_url": "https://yt3.googleusercontent.com/l8ADcpPLsxKdwr41z72jbh0WtgvJrFb8ngPC0LQMBFPGbeQ4bvHYdRxNbpYwhmFlEmaDeb2S=s176-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@Englishwithjennifer",
+        "ads_link": "http://lyksoomu.com/1C8eB"
+      },
+      {
+        "title": "Elight Learning English",
+        "desc": "Kênh này dành cho người muốn học Tiếng Anh toàn diện qua các video bài giảng, bài hát, tin tức và giao tiếp",
+        "thumb_url": "https://yt3.googleusercontent.com/ytc/AGIKgqP2mpmgS0soJKA6Oe7gffOXKYAGa-chEArzXXnj=s176-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@ElightLearningEnglish",
+        "ads_link": "http://lyksoomu.com/1C8eK"
+      },
+      {
+        "title": "Rock 'N Learn",
+        "desc": "Kênh này dành cho bé học Tiếng Anh qua các video sinh động về phát âm, từ vựng, toán, khoa học và nhiều chủ đề khác",
+        "thumb_url": "https://yt3.googleusercontent.com/ytc/AGIKgqN891-DX1fj0FJEByixNVfI8O9DpWHvybKFkvqiBw=s176-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@rocknlearn",
+        "ads_link": "http://lyksoomu.com/1C8em"
+      },
+      {
+        "title": "TED-Ed",
+        "desc": "Kênh này dành cho người muốn học Tiếng Anh qua các bài giảng ngắn về nhiều chủ đề khác nhau, từ khoa học đến văn hóa và xã hội",
+        "thumb_url": "https://yt3.googleusercontent.com/HjXKmDGoAp6b-JdGYpqJYYeN4S_CMpD_kqWvldpN53cbzn-i73t6mVNo8mNki-xLPwi0BVSFi-o=s176-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@TEDEd",
+        "ads_link": "http://lyksoomu.com/1C8f2"
+      },
+      {
+        "title": "ENGLISH with James · engVid",
+        "desc": "EngVid là một kênh Youtube học tiếng Anh tổng hợp của 11 giảng viên với gần 900 chủ đề tiếng Anh để bạn có thể thoải mái lựa chọn",
+        "thumb_url": "https://yt3.googleusercontent.com/42gxG8XpWT0F_tdmd9YrZYnDCfL_8fQeQ5_X2Hlsx3TFaXGK7Omo7jAKGHg6VnlFu5ig0FvYcQ=s176-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@engvidJames",
+        "ads_link": "http://lyksoomu.com/1C8gN"
       }
     ]
   }
