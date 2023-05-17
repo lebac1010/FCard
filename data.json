@@ -4,11 +4,74 @@
     "title": "Website học TA",
     "contents": [
       {
-        "title": "English Club",
-        "desc": "The Magic site! Cleverly designed, stimulating, easily viewed.",
+        "title": "Duolingo",
+        "desc": "Duolingo is a free app and website that uses gamified lessons to teach English vocabulary, grammar, and pronunciation.",
+        "thumb_url": "https://design.duolingo.com/86230c9ad10d9f08b785.svg",
+        "url": "https://www.duolingo.com/",
+        "ads_link": "http://lyksoomu.com/1C8VK"
+      },
+      {
+        "title": "Memrise",
+        "desc": "Memrise is another free app and website that uses flashcards and other interactive exercises to help you learn English.",
+        "thumb_url": "https://6968579.fs1.hubspotusercontent-na1.net/hubfs/6968579/Memrise%20July%202020/Images/logo_yellow.svg",
+        "url": "https://www.memrise.com/",
+        "ads_link": "http://lyksoomu.com/1C8Vl"
+      },
+      {
+        "title": "BBC Learning English",
+        "desc": "BBC Learning English offers a variety of free resources for English learners, including news articles, videos, and podcasts.",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/440px-BBC_Logo_2021.svg.png",
+        "url": "https://www.bbc.co.uk/programmes/p02pc9tn/episodes/downloads",
+        "ads_link": "http://lyksoomu.com/1C8XE"
+      },
+      {
+        "title": "British Council",
+        "desc": "British Council is a non-profit organization that offers a variety of English learning resources, including online courses, face-to-face classes, and teacher training programs.",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/British_Council_logo.svg/600px-British_Council_logo.svg.png?20150524171749",
+        "url": "https://www.britishcouncil.org/",
+        "ads_link": "http://lyksoomu.com/1C8XY"
+      },
+      {
+        "title": "Rosetta Stone",
+        "desc": "Rosetta Stone is a paid app and website that uses a variety of methods to teach English, including immersive learning, speech recognition, and cultural insights.",
+        "thumb_url": "https://www.rosettastone.com/rsassets/img/logos/rs/logo-full.svg",
+        "url": "https://www.rosettastone.com/",
+        "ads_link": "http://lyksoomu.com/1C8Xx"
+      },
+      {
+        "title": "Englishclub",
+        "desc": "Englishclub offers a variety of free resources for English learners, including lessons, games, and quizzes.",
         "thumb_url": "https://www.englishclub.com/images/logos/EnglishCLUB-bw.png",
-        "url": "https://www.englishclub.com/learn/",
-        "ads_link": "https://shrinke.me/englishclub"
+        "url": "https://www.englishclub.com/",
+        "ads_link": "http://lyksoomu.com/1C8YK"
+      },
+      {
+        "title": "ESLpod101",
+        "desc": "ESLpod101 offers a variety of audio and video lessons for English learners.",
+        "thumb_url": "https://secure3.eslpod.com/wp-content/uploads/2016/06/cropped-ESLPodcastLogoRecWeb300.jpg",
+        "url": "https://secure3.eslpod.com/podcast/eslpodcast-101-returning-a-dvd-player/",
+        "ads_link": "http://lyksoomu.com/1C8Yu"
+      },
+      {
+        "title": "italki",
+        "desc": "italki is a website that connects you with native English speakers for online tutoring.",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/en/7/74/Italki_logo_2017_3200x2025.png",
+        "url": "https://www.italki.com/",
+        "ads_link": "http://lyksoomu.com/1C8Z4"
+      },
+      {
+        "title": "FluentU",
+        "desc": "FluentU uses authentic English videos to teach vocabulary, grammar, and pronunciation.",
+        "thumb_url": "https://www.fluentu.com/blog/english/wp-content/themes/fluentu-wp-theme/img/fluentu-logo.png",
+        "url": "https://www.fluentu.com/en/",
+        "ads_link": "http://lyksoomu.com/1C8Za"
+      },
+      {
+        "title": "Wlingua",
+        "desc": "Wlingua is a gamified website that teaches English through interactive lessons.",
+        "thumb_url": "https://pbs.twimg.com/profile_images/1233341296124874752/-Lob-6OX_400x400.png",
+        "url": "https://english.wlingua.com/",
+        "ads_link": "http://lyksoomu.com/1C8Zm"
       }
     ]
   },
@@ -17,11 +80,11 @@
     "title": "Kênh Youtube học TA",
     "contents": [
       {
-        "title": "",
-        "desc": "",
-        "thumb_url": "",
-        "url": "",
-        "ads_link": ""
+        "title": "English Addict with Mr Duncan",
+        "desc": "Kênh này dành cho người mới bắt đầu học Tiếng Anh",
+        "thumb_url": "https://yt3.googleusercontent.com/Ns6jA8SPBQHp6zpVTeI2ja71q-pWtEB1E93k6ZFtRWbR1yVjqbdjsgxsfAARNQb9daTtD3pM=s176-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/channel/UC8pPDhxSn1nee70LRKJ0p3g",
+        "ads_link": "http://lyksoomu.com/1C8aQ"
       }
     ]
   }
